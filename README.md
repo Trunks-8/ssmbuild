@@ -1,8 +1,8 @@
 # ssmbuild
 SSM框架整合
 一、环境要求：
-  1. 环境：
-  （1）IDEA
+1. 环境：
+  2. （1）IDEA
   （2）MySQL
   （3）Tomcat 9
   （4）Maven
